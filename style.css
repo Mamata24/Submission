@@ -1,0 +1,40 @@
+ h1
+{
+    text-align: center;
+}
+.img1 img
+{
+    float:left;
+    padding:30px;
+    margin-left: 280px;
+}
+.img2 img{
+    float:left;
+    padding:30px;
+}
+.img3 img{
+
+    clear: both;
+    padding:30px;
+
+}
+.flex-box {
+    display: flex;
+    flex-direction: row;
+}
+.img4 img
+{
+    padding:50px;
+    margin-left: 150px;
+}
+.img5 img{
+    float:left;
+    padding:50px;
+}
+.img6 img{
+
+    clear: both;
+    padding:50px;
+
+}
+
