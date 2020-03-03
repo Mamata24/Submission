@@ -1,0 +1,130 @@
+.Trump-event {
+    border: 1px solid black;
+    width: 42.7%;
+    float: left;
+    margin: 1.5%;
+   background:#1A237E;
+  }
+
+.Trump-event-img img {
+  width: 100%;
+  }
+  
+  .Trump-event-heading {
+    color: white;
+    font-size: 20px;
+    margin: 0;
+  }
+  
+  .Trump-event-sub-heading {
+    color: white;
+    font-size: 12px;
+    margin: 10px 0px;
+  }
+  .Trump-event-below-sub-heading
+  {
+    color: #9E9E9E;
+    font-size: 14px;
+    margin: 6px 0px;
+    font-size: 19px;
+  }
+  .Huddle-event {
+    border: 1px solid black;
+    width: 42%;
+    float: left;
+    margin: 1.5%;
+  }
+  .Huddle-event-img
+  {
+    float:left;
+    margin-right: 10px;
+  }
+  .Huddle-event-img img
+  {
+    max-width:120px;
+  }
+  .Huddle-event-content h4
+  {
+    color: #1A237E;
+  }
+  .National-event1 {
+    border: 1px solid black;
+    width: 42%;
+    float: left;
+    margin: 1.5%;
+    margin-top: 5px;
+  }
+  .National-event1-img
+  {
+    float:left;
+    margin-right: 10px;
+  }
+  .National-event1-img img
+  {
+    max-width:120px;
+  }
+  .National-event1-content h4
+  {
+    color: #1A237E;
+  }
+  .National-event2 {
+    border: 1px solid black;
+    width: 42%;
+    float: left;
+    margin: 1.5%;
+    margin-top: 5px;
+  }
+  .National-event2-img
+  {
+    float:left;
+    margin-right: 5px;
+  }
+  .National-event2-img img
+  {
+    max-width:120px;
+  }
+  .National-event2-content h4
+  {
+    color: #1A237E;
+  }
+  .National-event-below {
+    clear:both;
+    border: 1px solid black;
+    width: 42.7%;
+    float: left;
+    margin: 1.5%;
+    margin-top: 5px;
+  }
+  .National-event-below-img
+  {
+    float:left;
+    margin-right: 5px;
+  }
+  .National-event-below-img img
+  {
+    max-width:120px;
+  }
+  .National-event-below-content h4
+  {
+    color: #1A237E;
+  } 
+  .National-event-below-right {
+    border: 1px solid black;
+    width: 42%;
+    float: left;
+    margin: 1.5%;
+    margin-top: 5px;
+  }
+  .National-event-below-right-img
+  {
+    float:left;
+    margin-right: 5px;
+  }
+  .National-event-below-right-img img
+  {
+    max-width:120px;
+  }
+  .National-event-below-right-content h4
+  {
+    color: #1A237E;
+  } 
